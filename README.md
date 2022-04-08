@@ -1,8 +1,4 @@
  <h1 align="center"> 👋Hi, I'm Furkan. </h1>
-
-<h3 align="center">👀 I'm interested in Python Development.
-
- <br>🌱 I’m always learning to learn and discover new programming languages.</h3>
  
 
 <p align="center"><img align="center"
